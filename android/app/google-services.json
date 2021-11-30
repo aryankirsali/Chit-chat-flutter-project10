@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276539183190",
+    "project_id": "chit-chat-17126",
+    "storage_bucket": "chit-chat-17126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276539183190:android:28e2a6e62ee3c1f9bc2bf7",
+        "android_client_info": {
+          "package_name": "co.aryankirsali.chit_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276539183190-f6qjlvp8e6ajac2o39q81q0kp9vs3gl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhgbftib4vY-rbodeC39uQ9sjsHbP7kt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276539183190-f6qjlvp8e6ajac2o39q81q0kp9vs3gl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
